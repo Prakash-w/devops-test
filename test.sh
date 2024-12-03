@@ -5,3 +5,4 @@
            └─apache2-systemd.conf
    Active: failed (Result: exit-code) since Wed 2020-03-11 23:17:35 WIB; 13s ago
   Process: 9151 ExecStart=/usr/sbin/apachectl start (code=exited, status=139)
+  systemctl ssh start
